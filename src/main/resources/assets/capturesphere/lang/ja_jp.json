@@ -1,0 +1,10 @@
+{
+  "item.capturesphere.copper_sphere": "銅のキャプチャースフィア",
+  "item.capturesphere.iron_sphere": "鉄のキャプチャースフィア",
+  "item.capturesphere.gold_sphere": "金のキャプチャースフィア",
+  "entity.capturesphere.thrown_sphere": "キャプチャースフィア",
+  "tooltip.capturesphere.mob_type": "モブ: %s",
+  "tooltip.capturesphere.custom_name": "名前: %s",
+  "tooltip.capturesphere.health": "HP: %s",
+  "tooltip.capturesphere.empty": "空のスフィア（右クリックで投げて捕獲）"
+}

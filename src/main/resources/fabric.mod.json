@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "capturesphere",
+  "version": "1.0.0",
+  "name": "Capture Sphere",
+  "description": "Throw spheres to capture and summon mobs using Minecraft's Data Components system.",
+  "authors": [
+    "Fabric Modder"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net"
+  },
+  "license": "MIT",
+  "icon": "assets/capturesphere/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.capturesphere.CaptureSphereMod"
+    ],
+    "client": [
+      "net.capturesphere.CaptureSphereClientMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=26.3",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

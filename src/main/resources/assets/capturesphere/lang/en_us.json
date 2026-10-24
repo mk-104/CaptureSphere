@@ -1,0 +1,10 @@
+{
+  "item.capturesphere.copper_sphere": "Copper Capture Sphere",
+  "item.capturesphere.iron_sphere": "Iron Capture Sphere",
+  "item.capturesphere.gold_sphere": "Gold Capture Sphere",
+  "entity.capturesphere.thrown_sphere": "Capture Sphere",
+  "tooltip.capturesphere.mob_type": "Mob: %s",
+  "tooltip.capturesphere.custom_name": "Name: %s",
+  "tooltip.capturesphere.health": "HP: %s",
+  "tooltip.capturesphere.empty": "Empty (Throw to capture mob)"
+}

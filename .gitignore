@@ -1,0 +1,24 @@
+# Gradle & ビルド成果物
+build/
+.gradle/
+out/
+bin/
+*.class
+
+# IDE & エディタ
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Minecraft 実行環境データ (ワールド・ログ・キャッシュ)
+run/
+*.log
+
+# OS 生成ファイル
+Thumbs.db
+Desktop.ini
+.DS_Store

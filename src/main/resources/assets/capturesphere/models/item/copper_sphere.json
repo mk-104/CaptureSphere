@@ -1,0 +1,6 @@
+{
+  "parent": "capturesphere:item/sphere_3d_template",
+  "textures": {
+    "texture": "capturesphere:item/copper_sphere"
+  }
+}
